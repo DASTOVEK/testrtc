@@ -1,0 +1,16 @@
+name: testrtc
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/f2dcddf1-dd8a-4ffc-9ace-97510870b089
+description: WebRTC Troubeshooter PROJECT IS ON HOLD
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/DASTOVEK/testrtc
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
